@@ -1,0 +1,6 @@
+# Importaciones estándar de Python para los cuadernos
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
