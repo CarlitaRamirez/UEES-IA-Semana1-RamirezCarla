@@ -19,8 +19,13 @@ En el repositorio se encuentran laboratorios practicos
 Ejemplos de manipulación de arrays con NumPy, Daaframe con Pandas.
 ### 02_Visualizacion_Datos.ipynb
 Gráficos básicos con Matplotlib, Seaborn y Plotly.
-#### Gráfico Matplotlib
+#### Gráficos Matplotlib
 ![Gráfico de columnas Distribución del Sépalo](https://raw.githubusercontent.com/CarlitaRamirez/UEES-IA-Semana1-Grupo2/refs/heads/main/images/images%20notebook%202/grafico_columnas_distribucion_sepalo.png)
+![Gráfico_scatter_sépalo_vs_pétalo](https://raw.githubusercontent.com/CarlitaRamirez/UEES-IA-Semana1-Grupo2/refs/heads/main/images/images%20notebook%202/grafico_scatter_sepalo_vs_petalo.png)
+#### Gráfico Seaborn
+![Gráfico de Cajas](https://raw.githubusercontent.com/CarlitaRamirez/UEES-IA-Semana1-Grupo2/refs/heads/main/images/images%20notebook%202/grafico_cajas_petalo.png)
+![Gráfico pair plot especies](https://raw.githubusercontent.com/CarlitaRamirez/UEES-IA-Semana1-Grupo2/refs/heads/main/images/images%20notebook%202/grafico_pair_plot_especies.png)
+![Gráfico de violin](https://raw.githubusercontent.com/CarlitaRamirez/UEES-IA-Semana1-Grupo2/refs/heads/main/images/images%20notebook%202/grafico_violin_ancho_sepalo.png)
 
 ### 03_Machine_Learning_Basico.ipynb 
 Modelos de clasificación, regresión usando Scikit-learn.
